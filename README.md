@@ -17,4 +17,4 @@ This document contains the following details:
 ### Description of the Topology
 An ELK server consists of three open-source tools called Elasticsearch, Logstash, & Kibana. Elasticsearch is the database used for storing logs, Logstash collects the logs from the machines, and Kibana provides charts and graphs so analysts are able to review the data with ease.
 
-Load balancing ensures that the application will be highly secure, in addition to
+Load balancing ensures that the application will be highly secure, in addition to restricting unauthroized access.
