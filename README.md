@@ -18,3 +18,17 @@ This document contains the following details:
 An ELK server consists of three open-source tools called Elasticsearch, Logstash, & Kibana. Elasticsearch is the database used for storing logs, Logstash collects the logs from the machines, and Kibana provides charts and graphs so analysts are able to review the data with ease.
 
 Load balancing ensures that the application will be highly secure, in addition to restricting unauthroized access.
+The load balancer protects the... the advantage of the jumpbox is ,,,
+
+Integratating an ELK Server allows user to easily monitor the vulnerable VMs for changes to the ...
+Filebeat watches for...
+mtricbeat records
+
+The configuration details of each machine may be found below.
+
+| Name     | Function | IP Address | Operating System |
+|----------|----------|------------|------------------|
+| Jump Box | Gateway  | 10.0.0.1   | Linux            |
+| TODO     |          |            |                  |
+| TODO     |          |            |                  |
+| TODO     |          |            |                  |
